@@ -1,8 +1,8 @@
 # Design Implementation of Full Custom 2:1 Mux
 <dr>
 <dr>
-  <dr>
-    <dr>
+<dr>
+<dr>
 <h2>I. Introduction :</h2>
 <dr>The 2×1 is a fundamental circuit which is also known 2-to-1 multiplexer that are used to choose one signal from two inputs and transmits it to the output. The 2×1 mux has two input lines, one output line, and a single selection line. It has various applications in digital systems such as in microprocessor it is used to select between two different data sources or between two different instructions.<dr>
 <dr>
