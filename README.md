@@ -67,6 +67,14 @@ Logical Expression of 2×1 Mux
 
 
 ![Screenshot-4](https://github.com/user-attachments/assets/880ddd17-204b-4e5d-b2d0-fef5b27522c1)
+<br>
+<br>
+<h2>IX. Layout :</h2>
+<br>
+
+![image](https://github.com/user-attachments/assets/6793a6c7-9f25-4097-9037-7b8593f2a254)
+
+
 
 
 
