@@ -23,23 +23,23 @@ Logical Expression of 2×1 Mux
 <br>
 <h2>III. Advantages of MUX</h2>
 
-Efficiency: The Mux has good efficiency in routing multiple input signals to a single out signal based on control signals.<dr><br>
-Optimization: The Mux helps to conserve resources such as wires, pins and integrated circuit(IC).<dr><br>
-Different Implementation: The Mux can be used to implement different digital logic functions such AND,OR etc.<dr><br>
-Flexibility: Mux can be easily configure according to the requirements and accommodate different data sources, enhancing system versatility.<dr><br>
+1. Efficiency: The Mux has good efficiency in routing multiple input signals to a single out signal based on control signals.<dr><br>
+2. Optimization: The Mux helps to conserve resources such as wires, pins and integrated circuit(IC).<dr><br>
+3. Different Implementation: The Mux can be used to implement different digital logic functions such AND,OR etc.<dr><br>
+4. Flexibility: Mux can be easily configure according to the requirements and accommodate different data sources, enhancing system versatility.<dr><br>
 <br>
 <br>
-<H1>IV. Applications of MUX</H1>
+<H2>IV. Applications of MUX</H2>
 
-Data Routing: The Mux is used for data routing in the digital system where they select one of the several data lines and re-route it the output.<dr>
-Data Selection: The Mux is used for data selection where they select data source according to the select lines.<dr><br>
-Analog-to-Digital Conversion: The Mux are used in ADC to select different analog input channels.<dr><br>
-Address Decoding: The Mux are used in Microprocessors or memory for address decoding.<dr><br>
-Logic Function Implementation: Muxes can be used to implement various logic functions.<dr><br>
+1. Data Routing: The Mux is used for data routing in the digital system where they select one of the several data lines and re-route it the output.<dr>
+2. Data Selection: The Mux is used for data selection where they select data source according to the select lines.<dr><br>
+3. Analog-to-Digital Conversion: The Mux are used in ADC to select different analog input channels.<dr><br>
+4. Address Decoding: The Mux are used in Microprocessors or memory for address decoding.<dr><br>
+5. Logic Function Implementation: Muxes can be used to implement various logic functions.<dr><br>
 <br>
 <br>
 
-<H1>V. Tools Used :</H1>
+<H2>V. Tools Used :</H2>
 
 • Schematic: Cadence Virtuoso Schematic XL<dr><br>
 • Simulation: Cadence Virtuoso - ADE L<dr><br>
