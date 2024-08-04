@@ -1,6 +1,4 @@
 # Design Implementation of Full Custom 2:1 Mux
-
-<br>
 <br>
 <br>
 <h2>I. Introduction :</h2>
