@@ -1,9 +1,9 @@
 # Design Implementation of Full Custom 2:1 Mux
-<br>
+
 <h2>I. Introduction :</h2>
 <dr>The 2×1 is a fundamental circuit which is also known 2-to-1 multiplexer that are used to choose one signal from two inputs and transmits it to the output. The 2×1 mux has two input lines, one output line, and a single selection line. It has various applications in digital systems such as in microprocessor it is used to select between two different data sources or between two different instructions.<dr>
 <dr>
-
+<dr>
 <dr>
 <h2>II. Block Diagram of 2:1 Multiplexer with Truth Table :</h2>
 Given Below is the Block Diagram and Truth Table of 2:1 Mux. In this Block Diagram where I0 and I1 are the input lines ,Y is the output line and S0 is a single select line.
