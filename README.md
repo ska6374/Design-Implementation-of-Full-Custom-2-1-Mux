@@ -46,6 +46,32 @@ Logical Expression of 2×1 Mux
 • Layout: Cadence Virtuoso - Layout XL<dr><br>
 • Technology: gpdk180<dr><br>
 
+<br>
+<br>
+<h2>VI. Schematic</h2>
+<br>
+<br>
+
+![Screenshot](https://github.com/user-attachments/assets/b657e080-480b-4f85-beda-7911e1b253c9)
+<BR>
+<BR>
+<H2>VII. Symbol Genarate</H2>
+<br>
+<br>
+
+![Screenshot-2](https://github.com/user-attachments/assets/b1ba4b9e-96ae-49c0-a8c8-852fd22e2ed8)
+<br>
+<br>
+<h2>VIII. Output Waveform</h2>
+<br>
+<br>
+
+![Screenshot-4](https://github.com/user-attachments/assets/880ddd17-204b-4e5d-b2d0-fef5b27522c1)
+
+
+
+
+
 
 
 
